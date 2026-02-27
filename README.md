@@ -30,13 +30,13 @@ DESCRIPTION
   Backend Engineer | AI-First Systems | Terminal Junkie
 
 COMMANDS
-  build        Construct scalable, low-latency APIs (FastAPI, Go, PostgreSQL).
+  build        Construct scalable, low-latency APIs.
   agentify     Orchestrate RAG pipelines and autonomous LLM workflows.
   refactor     Identify bottlenecks; transform technical debt into clean logic.
 
 ENVIRONMENT
   EDITOR=nvim
-  SHELL=zsh
+  SHELL=bash/fish
   UPTIME=High-Curiosity
   STATUS=Building... [████████████░░░] 85%
 
@@ -45,8 +45,8 @@ EXAMPLES
   Refactoring... Done.
   Deployment successful. Latency reduced by 40%.
 
-  $ prem --learn "Distributed Systems"
-  Status: Deep diving. Do not disturb.
+  $ prem --learn
+   intersiting and curious things.
 ```
 ---
 
