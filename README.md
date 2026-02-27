@@ -19,21 +19,35 @@
 ---
 
 ```bash
-$ cat about.me
+$ man prem
 ```
 
 ```
-{
-  "focus"     : ["Backend Engineering", "AI / LLMs", "CLI Tools"],
-  "languages" : ["Python", "JavaScript", "C++", "Java", "C"],
-  "backend"   : ["FastAPI", "Django", "Flask", "Express.js", "Node.js"],
-  "databases" : ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Firebase"],
-  "ai_ml"     : ["TensorFlow", "Keras", "scikit-learn", "NumPy", "Pandas"],
-  "devops"    : ["Docker", "Git", "Gunicorn", "Render"],
-  "principle" : "Build fast. Ship clean. Stay in the terminal."
-}
-```
+USAGE
+  prem <command> [options]
 
+DESCRIPTION
+  Backend Engineer | AI-First Systems | Terminal Junkie
+
+COMMANDS
+  build        Construct scalable, low-latency APIs (FastAPI, Go, PostgreSQL).
+  agentify     Orchestrate RAG pipelines and autonomous LLM workflows.
+  refactor     Identify bottlenecks; transform technical debt into clean logic.
+
+ENVIRONMENT
+  EDITOR=nvim
+  SHELL=zsh
+  UPTIME=High-Curiosity
+  STATUS=Building... [████████████░░░] 85%
+
+EXAMPLES
+  $ prem --ship clean-code --optimize
+  Refactoring... Done.
+  Deployment successful. Latency reduced by 40%.
+
+  $ prem --learn "Distributed Systems"
+  Status: Deep diving. Do not disturb.
+```
 ---
 
 ## ⚡ Tech Stack
