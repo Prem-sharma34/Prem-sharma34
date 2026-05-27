@@ -27,12 +27,7 @@ USAGE
   prem <command> [options]
 
 DESCRIPTION
-  Backend Engineer | AI-First Systems | Terminal Junkie
-
-COMMANDS
-  build        Construct scalable, low-latency APIs.
-  agentify     Orchestrate RAG pipelines and autonomous LLM workflows.
-  refactor     Identify bottlenecks; transform technical debt into clean logic.
+  Backend | AI-First Systems | Terminal Junkie
 
 ENVIRONMENT
   EDITOR=nvim
